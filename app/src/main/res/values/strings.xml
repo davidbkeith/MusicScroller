@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music Scroller</string>
+    <string name="button_play">Send</string>
+</resources>
